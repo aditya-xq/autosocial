@@ -1,0 +1,8 @@
+tweepy==3.8.0
+tensorflow==2.0.0
+tensorflow-hub==0.8.0
+request==2.22.0
+numpy==1.18.4
+pillow==7.1.2
+autoit==0.1
+selenium==3.141.0
