@@ -1,2 +1,2 @@
-# autosocialnest
+# AutoSocial
  Social media automation framework
