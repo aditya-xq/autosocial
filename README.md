@@ -1,2 +1,2 @@
 # AutoSocial
- Social media automation framework
+A light weight DIY Social media automation platform
